@@ -15,4 +15,4 @@ for i in range(5):
 print("{} valor(es) par(es)".format(even))
 print("{} valor(es) impar(es)".format(odd))
 print("{} valor(es) positivo(s)".format(positive))
-print("{} valor(es) negativo(s)".format(negative)
+print("{} valor(es) negativo(s)".format(negative))
