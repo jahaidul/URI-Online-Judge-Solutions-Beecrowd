@@ -1,4 +1,3 @@
-
 x,y,z=list(map(int,input().split()))
 lista = [x,y,z]
 lista.sort()
