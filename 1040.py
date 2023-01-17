@@ -1,4 +1,3 @@
-
 n1,n2,n3,n4=list(map(float,input().split()))
 a=(((n1*2)+(n2*3)+(n3*4)+(n4*1))/10);
 print("Media: %.1lf"%a)
