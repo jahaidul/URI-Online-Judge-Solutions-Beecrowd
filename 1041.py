@@ -1,4 +1,3 @@
-
 X,Y=list(map(float,input().split()))
 if(X==0 and Y==0):
     print("Origem")
