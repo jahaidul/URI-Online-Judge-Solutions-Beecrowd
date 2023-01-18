@@ -1,4 +1,3 @@
-
 a,b,c = list(map(float,input().split()))
 triangle=0.5*a*c
 circle=3.14159*c*c
