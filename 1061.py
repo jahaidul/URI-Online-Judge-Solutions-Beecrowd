@@ -1,3 +1,4 @@
+
 dia,date1=input().split()
 date1 = int(date1)
 h1,m1,s1=map(int,input().split(":"))
