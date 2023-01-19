@@ -1,4 +1,3 @@
-
 X,Y=list(map(int,input().split()))
 if(X == 1):
     price  = (float) (4.00 * Y)
