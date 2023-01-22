@@ -6,4 +6,3 @@ print("%0.4f"%distance)
 
 
 
-
