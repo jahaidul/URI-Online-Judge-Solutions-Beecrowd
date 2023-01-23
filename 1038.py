@@ -10,3 +10,6 @@ elif (X == 4):
 elif (X == 5):
     price  = (float) (1.50 * Y)
 print("Total: R$ %.2f"%price)
+
+
+
