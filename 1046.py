@@ -4,4 +4,3 @@ if(a<b):
 else:
     time=b+24-a
 print("O JOGO DUROU {} HORA(S)".format(time))
-
