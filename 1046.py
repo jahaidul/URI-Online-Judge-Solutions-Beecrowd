@@ -6,4 +6,3 @@ else:
 print("O JOGO DUROU {} HORA(S)".format(time))
 
 
-
