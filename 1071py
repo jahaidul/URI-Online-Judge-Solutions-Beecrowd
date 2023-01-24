@@ -6,5 +6,3 @@ for n in range((b+1),a):
         soma+=n
 print(soma)
 
-
-
