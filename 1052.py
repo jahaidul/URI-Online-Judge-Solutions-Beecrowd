@@ -24,6 +24,4 @@ elif(x==11):
 elif(x==12):
     print("December")
 
-    
-    
-    
+ 
