@@ -4,4 +4,4 @@ if(a<b+c and b < a + c and c < a + b):
 else:
      print("Area = %0.1f"%((c * (a + b)) / 2))
 
-    
+   
