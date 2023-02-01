@@ -5,3 +5,4 @@ else:
      print("Area = %0.1f"%((c * (a + b)) / 2))
 
      
+ 
