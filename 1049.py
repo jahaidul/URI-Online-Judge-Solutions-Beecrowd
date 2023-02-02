@@ -24,5 +24,4 @@ elif a =="invertebrado":
 		else:
 			print("minhoca")
 			
-			
-			
+				
