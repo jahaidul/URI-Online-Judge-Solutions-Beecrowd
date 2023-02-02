@@ -23,3 +23,4 @@ elif a =="invertebrado":
 			print("sanguessuga")
 		else:
 			print("minhoca")
+
