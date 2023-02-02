@@ -26,4 +26,3 @@ elif a =="invertebrado":
 			
 			
 			
-		
