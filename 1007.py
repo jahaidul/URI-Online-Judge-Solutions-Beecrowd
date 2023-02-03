@@ -7,4 +7,3 @@ print("DIFERENCA =",sum)
 
 
 
-
