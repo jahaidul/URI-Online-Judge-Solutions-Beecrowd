@@ -9,3 +9,4 @@ print("CIRCULO: %.3f"%circle)
 print("TRAPEZIO: %.3f"%trapezium)
 print("QUADRADO: %.3f"%square)
 print("RETANGULO: %.3f"%rectangle)
+
