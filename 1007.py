@@ -4,5 +4,3 @@ c=int(input())
 d=int(input())
 sum = ((a*b)-(c*d))
 print("DIFERENCA =",sum)
-
-
