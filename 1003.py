@@ -3,3 +3,5 @@ b=int(input())
 print("SOMA =",a+b)
 
 
+
+
