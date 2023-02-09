@@ -5,5 +5,3 @@ print("%0.3f km/l"%total)
 
 
 
-
-
