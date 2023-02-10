@@ -16,5 +16,3 @@ elif(a>=5.0 and a<=6.9):
 			print("Aluno reprovado.")
 	print("Media final: %.1lf"%b)
 
-
-
