@@ -9,6 +9,3 @@ print(j)
 print(loc+1)
 
 
-
-
-
