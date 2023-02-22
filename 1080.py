@@ -7,3 +7,5 @@ for i in range(100):
         loc=i
 print(j)
 print(loc+1)
+
+
