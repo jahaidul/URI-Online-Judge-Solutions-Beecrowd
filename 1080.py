@@ -8,6 +8,3 @@ for i in range(100):
 print(j)
 print(loc+1)
 
-
-
-
