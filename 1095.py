@@ -6,7 +6,7 @@ for I in range (1,14):
     j=J
     i=I
     
-    
+  
     
   
   
