@@ -5,9 +5,3 @@ for I in range (1,14):
     print('I=%d J=%d' %(I,J))
     j=J
     i=I
-
-
-
-    
-
-    
